@@ -1,0 +1,17 @@
+{
+    "name": "chriskleitz/composer2",
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "ChristopheKleitz",
+            "email": "ckleitz67@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+    }
